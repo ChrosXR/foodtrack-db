@@ -5,10 +5,10 @@ Estructura del repositorio
 
 El proyecto se organiza en distintos branches según su propósito:
 
-scripts: creación del esquema y tablas (DDL).
+- scripts: creación del esquema y tablas (DDL).
 
-cambios: scripts de edición de tablas y consultas.
+- cambios: scripts de edición de tablas y consultas.
 
-data: archivos CSV con datos crudos y scripts de ingestión.
+- data: archivos CSV con datos crudos y scripts de ingestión.
 
-relaciones: diagrama de relaciones del modelo.
+- relaciones: diagrama de relaciones del modelo.
